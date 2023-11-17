@@ -72,9 +72,9 @@ plt.show()
 
 
 
-OUTPUT:
+## OUTPUT:
 ![image](https://github.com/s-adhithya/EX-NO-9-linear-trend-estimation/assets/113497423/b192d614-0d3b-4ae0-a394-8dbb2a901235)
 
 
-RESULT :
+## RESULT :
 Thus the program to implement a linear trend estimation is written and verified using python programming.
